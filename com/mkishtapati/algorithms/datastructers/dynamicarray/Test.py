@@ -10,3 +10,4 @@ if __name__=='__main__':
     print(arr.capacity)
     arr.add(18)
     print(arr.capacity)
+    print("completed")
